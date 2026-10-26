@@ -1,0 +1,430 @@
+[
+  {
+    "id": "Q001",
+    "level": 1,
+    "question": "What was Apple's total net sales in 2024?",
+    "category": "Fact Retrieval",
+    "expected_route": "Fact Retrieval",
+    "target_companies": [
+      "Apple"
+    ],
+    "target_years": [
+      2024
+    ],
+    "expected_metric": "revenue",
+    "ground_truth_value": 391035.0,
+    "ground_truth_unit": "million USD",
+    "expected_source": "Apple_2024_10K.txt",
+    "expected_page": 72
+  },
+  {
+    "id": "Q002",
+    "level": 1,
+    "question": "What was Microsoft's operating income in fiscal year 2024?",
+    "category": "Fact Retrieval",
+    "expected_route": "Fact Retrieval",
+    "target_companies": [
+      "Microsoft"
+    ],
+    "target_years": [
+      2024
+    ],
+    "expected_metric": "operating_income",
+    "ground_truth_value": 109433.0,
+    "ground_truth_unit": "million USD",
+    "expected_source": "Microsoft_2024_10K.txt",
+    "expected_page": 2
+  },
+  {
+    "id": "Q003",
+    "level": 1,
+    "question": "What was NVIDIA's Data Center revenue in 2025?",
+    "category": "Fact Retrieval",
+    "expected_route": "Fact Retrieval",
+    "target_companies": [
+      "NVIDIA"
+    ],
+    "target_years": [
+      2025
+    ],
+    "expected_metric": "data_center",
+    "ground_truth_value": 115200.0,
+    "ground_truth_unit": "million USD",
+    "expected_source": "Nvidia_2025_10K.txt",
+    "expected_page": 2
+  },
+  {
+    "id": "Q004",
+    "level": 1,
+    "question": "What was Amazon's AWS net sales in 2024?",
+    "category": "Fact Retrieval",
+    "expected_route": "Fact Retrieval",
+    "target_companies": [
+      "Amazon"
+    ],
+    "target_years": [
+      2024
+    ],
+    "expected_metric": "aws",
+    "ground_truth_value": 105360.0,
+    "ground_truth_unit": "million USD",
+    "expected_source": "Amazon_2024_10K.txt",
+    "expected_page": 2
+  },
+  {
+    "id": "Q005",
+    "level": 2,
+    "question": "Compare the total revenue of Apple, Microsoft, Amazon, and NVIDIA in 2024.",
+    "category": "Multi-Document Cross-Company",
+    "expected_route": "Multi-Document Cross-Company",
+    "target_companies": [
+      "Apple",
+      "Microsoft",
+      "Amazon",
+      "NVIDIA"
+    ],
+    "target_years": [
+      2024
+    ],
+    "expected_metric": "revenue",
+    "ground_truth_values": {
+      "Amazon": 637960.0,
+      "Apple": 391035.0,
+      "Microsoft": 245122.0,
+      "NVIDIA": 60922.0
+    }
+  },
+  {
+    "id": "Q006",
+    "level": 2,
+    "question": "Which company had the highest revenue growth between 2023 and 2024 among Apple, Microsoft, Amazon, and NVIDIA?",
+    "category": "Multi-Document Cross-Company",
+    "expected_route": "Multi-Document Cross-Company",
+    "target_companies": [
+      "Apple",
+      "Microsoft",
+      "Amazon",
+      "NVIDIA"
+    ],
+    "target_years": [
+      2023,
+      2024
+    ],
+    "expected_winner": "NVIDIA",
+    "ground_truth_growth": {
+      "NVIDIA": 125.85,
+      "Microsoft": 15.67,
+      "Amazon": 10.99,
+      "Apple": 2.02
+    }
+  },
+  {
+    "id": "Q007",
+    "level": 2,
+    "question": "Compare Apple's and Microsoft's operating income growth from 2023 to 2024.",
+    "category": "Multi-Document Cross-Company",
+    "expected_route": "Multi-Document Cross-Company",
+    "target_companies": [
+      "Apple",
+      "Microsoft"
+    ],
+    "target_years": [
+      2023,
+      2024
+    ],
+    "ground_truth_values": {
+      "Apple_growth": 7.8,
+      "Microsoft_growth": 23.62
+    }
+  },
+  {
+    "id": "Q009",
+    "level": 3,
+    "question": "Calculate Apple's net profit margin for 2024.",
+    "category": "Numerical & Financial Calculation",
+    "expected_route": "Numerical & Financial Calculation",
+    "target_companies": [
+      "Apple"
+    ],
+    "target_years": [
+      2024
+    ],
+    "formula": "Net Income / Revenue * 100",
+    "ground_truth_value": 23.97,
+    "ground_truth_unit": "%"
+  },
+  {
+    "id": "Q010",
+    "level": 3,
+    "question": "Calculate Microsoft's operating margin for 2024.",
+    "category": "Numerical & Financial Calculation",
+    "expected_route": "Numerical & Financial Calculation",
+    "target_companies": [
+      "Microsoft"
+    ],
+    "target_years": [
+      2024
+    ],
+    "formula": "Operating Income / Revenue * 100",
+    "ground_truth_value": 44.64,
+    "ground_truth_unit": "%"
+  },
+  {
+    "id": "Q011",
+    "level": 3,
+    "question": "Calculate Amazon's year-over-year revenue growth from 2023 to 2024.",
+    "category": "Numerical & Financial Calculation",
+    "expected_route": "Numerical & Financial Calculation",
+    "target_companies": [
+      "Amazon"
+    ],
+    "target_years": [
+      2023,
+      2024
+    ],
+    "formula": "((2024 - 2023) / 2023) * 100",
+    "ground_truth_value": 10.99,
+    "ground_truth_unit": "%"
+  },
+  {
+    "id": "Q012",
+    "level": 3,
+    "question": "Calculate NVIDIA's revenue CAGR from 2023 to 2025.",
+    "category": "Numerical & Financial Calculation",
+    "expected_route": "Numerical & Financial Calculation",
+    "target_companies": [
+      "NVIDIA"
+    ],
+    "target_years": [
+      2023,
+      2025
+    ],
+    "formula": "(Ending / Beginning)^(1/2) - 1",
+    "ground_truth_value": 120.0,
+    "ground_truth_unit": "%"
+  },
+  {
+    "id": "Q013",
+    "level": 3,
+    "question": "Calculate Apple's current ratio for 2024.",
+    "category": "Numerical & Financial Calculation",
+    "expected_route": "Numerical & Financial Calculation",
+    "target_companies": [
+      "Apple"
+    ],
+    "target_years": [
+      2024
+    ],
+    "formula": "Current Assets / Current Liabilities",
+    "ground_truth_value": 0.87,
+    "ground_truth_unit": "x"
+  },
+  {
+    "id": "Q014",
+    "level": 3,
+    "question": "Calculate Microsoft's debt-to-equity ratio for 2024.",
+    "category": "Numerical & Financial Calculation",
+    "expected_route": "Numerical & Financial Calculation",
+    "target_companies": [
+      "Microsoft"
+    ],
+    "target_years": [
+      2024
+    ],
+    "formula": "Total Debt / Stockholders Equity",
+    "ground_truth_value": 0.19,
+    "ground_truth_unit": "x"
+  },
+  {
+    "id": "Q015",
+    "level": 4,
+    "question": "From Apple's consolidated statements of operations, extract revenue, gross margin, operating income, and net income for 2023, 2024, and 2025.",
+    "category": "Table Intelligence & Statements",
+    "expected_route": "Table Intelligence & Statements",
+    "target_companies": [
+      "Apple"
+    ],
+    "target_years": [
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "id": "Q018",
+    "level": 4,
+    "question": "What percentage of NVIDIA's total revenue came from its Data Center segment in 2025?",
+    "category": "Table Intelligence & Statements",
+    "expected_route": "Table Intelligence & Statements",
+    "target_companies": [
+      "NVIDIA"
+    ],
+    "target_years": [
+      2025
+    ],
+    "ground_truth_value": 88.28,
+    "ground_truth_unit": "%"
+  },
+  {
+    "id": "Q019",
+    "level": 5,
+    "question": "How did Apple's revenue change between 2023, 2024, and 2025?",
+    "category": "Temporal Multi-Year Trend",
+    "expected_route": "Temporal Multi-Year Trend",
+    "target_companies": [
+      "Apple"
+    ],
+    "target_years": [
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "id": "Q020",
+    "level": 5,
+    "question": "Was NVIDIA's revenue growth accelerating or slowing between 2023-2024 and 2024-2025?",
+    "category": "Temporal Multi-Year Trend",
+    "expected_route": "Temporal Multi-Year Trend",
+    "target_companies": [
+      "NVIDIA"
+    ],
+    "target_years": [
+      2023,
+      2024,
+      2025
+    ],
+    "expected_conclusion": "Slightly normalized from +125.8% (FY23-24) to +114.2% (FY24-25), still showing massive triple-digit expansion."
+  },
+  {
+    "id": "Q023",
+    "level": 6,
+    "question": "Compare Apple, Microsoft, Amazon, and NVIDIA based on revenue growth, net profit margin, and operating margin in 2024. Rank them on each metric.",
+    "category": "Multi-Document Cross-Company",
+    "expected_route": "Multi-Document Cross-Company",
+    "target_companies": [
+      "Apple",
+      "Microsoft",
+      "Amazon",
+      "NVIDIA"
+    ],
+    "target_years": [
+      2024
+    ]
+  },
+  {
+    "id": "Q024",
+    "level": 7,
+    "question": "I found two different revenue figures for Apple in the uploaded documents. Identify the conflicting values, explain why they may differ, and determine which figure should be used for the 2024 annual analysis.",
+    "category": "Contradiction & Evidence Verification",
+    "expected_route": "Contradiction & Evidence Verification",
+    "target_companies": [
+      "Apple"
+    ],
+    "target_years": [
+      2024
+    ],
+    "conflicting_values": [
+      388500.0,
+      391035.0
+    ],
+    "recommended_value": 391035.0
+  },
+  {
+    "id": "Q025",
+    "level": 8,
+    "question": "What evidence supports the claim that NVIDIA experienced significant revenue growth between 2023 and 2025?",
+    "category": "Fact Retrieval",
+    "expected_route": "Fact Retrieval",
+    "target_companies": [
+      "NVIDIA"
+    ],
+    "target_years": [
+      2023,
+      2025
+    ]
+  },
+  {
+    "id": "Q026",
+    "level": 9,
+    "question": "What was Apple's net income in 2024? Provide the exact source document and page number supporting the answer.",
+    "category": "Fact Retrieval",
+    "expected_route": "Fact Retrieval",
+    "target_companies": [
+      "Apple"
+    ],
+    "target_years": [
+      2024
+    ],
+    "ground_truth_value": 93736.0,
+    "expected_source": "Apple_2024_10K.txt",
+    "expected_page": 72
+  },
+  {
+    "id": "Q027",
+    "level": 10,
+    "question": "Based on the uploaded annual reports, compare Apple, Microsoft, Amazon, and NVIDIA from 2023 to 2025 in terms of revenue growth, profitability, and major business segments. Identify the strongest growth story and support every major claim with evidence.",
+    "category": "Multi-Document Cross-Company",
+    "expected_route": "Multi-Document Cross-Company",
+    "target_companies": [
+      "Apple",
+      "Microsoft",
+      "Amazon",
+      "NVIDIA"
+    ],
+    "target_years": [
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "id": "Q031",
+    "level": 11,
+    "question": "Plot the revenue trend of Apple, Microsoft, Amazon, and NVIDIA from 2023 to 2025.",
+    "category": "Financial Visualization",
+    "expected_route": "Financial Visualization",
+    "target_companies": [
+      "Apple",
+      "Microsoft",
+      "Amazon",
+      "NVIDIA"
+    ],
+    "target_years": [
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "id": "Q032",
+    "level": 11,
+    "question": "Visualize the net profit margin of all four companies in 2024.",
+    "category": "Financial Visualization",
+    "expected_route": "Financial Visualization",
+    "target_companies": [
+      "Apple",
+      "Microsoft",
+      "Amazon",
+      "NVIDIA"
+    ],
+    "target_years": [
+      2024
+    ]
+  },
+  {
+    "id": "Q035",
+    "level": 12,
+    "question": "What was the revenue generated by Apple's Services segment in the fiscal year ending September 2024?",
+    "category": "Fact Retrieval",
+    "expected_route": "Fact Retrieval",
+    "target_companies": [
+      "Apple"
+    ],
+    "target_years": [
+      2024
+    ],
+    "ground_truth_value": 96169.0,
+    "ground_truth_unit": "million USD"
+  }
+]

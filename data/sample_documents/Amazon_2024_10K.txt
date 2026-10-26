@@ -1,0 +1,41 @@
+--- PAGE 1 ---
+AMAZON.COM, INC.
+FORM 10-K ANNUAL REPORT
+For the fiscal year ended December 31, 2024
+
+Item 7. Management's Discussion and Analysis
+In 2024, total net sales grew 11% to $637,960 million.
+Operating income expanded dramatically to $68,900 million.
+Net income reached $59,250 million.
+AWS net sales accelerated, surpassing $105,360 million with high operating margins.
+
+--- PAGE 2 ---
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In millions)
+
+| Metric | 2024 | 2023 |
+| :--- | :--- | :--- |
+| Total net sales | 637960 | 574785 |
+| Gross profit | 308500 | 270046 |
+| Operating income | 68900 | 36852 |
+| Net income | 59250 | 30425 |
+
+BALANCE SHEETS
+(In millions)
+
+| Metric | 2024 | 2023 |
+| :--- | :--- | :--- |
+| Total current assets | 182500 | 164888 |
+| Total current liabilities | 175200 | 164960 |
+| Total debt | 58300 | 67150 |
+| Total stockholders equity | 261400 | 201875 |
+
+SEGMENT NET SALES
+(In millions)
+
+| Segment | 2024 | 2023 |
+| :--- | :--- | :--- |
+| North America | 387400 | 352828 |
+| International | 145200 | 131200 |
+| AWS | 105360 | 90757 |
+| Total net sales | 637960 | 574785 |

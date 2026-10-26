@@ -1,0 +1,44 @@
+--- PAGE 1 ---
+NVIDIA CORPORATION
+FORM 10-K ANNUAL REPORT
+For the fiscal year ended January 28, 2024
+
+Item 7. Management's Discussion and Analysis
+Fiscal year 2024 was a transformative year marked by the emergence of Generative AI.
+Revenue grew 126% to $60,922 million.
+Gross profit was $44,301 million (gross margin percentage of 72.7%).
+Operating income rose to $32,972 million.
+Net income increased to $29,760 million.
+Data Center revenue surged 217% to a record $47,525 million, driven by the NVIDIA HGX platform and Hopper architecture.
+
+--- PAGE 2 ---
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In millions)
+
+| Metric | 2024 | 2023 |
+| :--- | :--- | :--- |
+| Total net sales | 60922 | 26974 |
+| Gross profit | 44301 | 15356 |
+| Operating income | 32972 | 4224 |
+| Net income | 29760 | 4368 |
+
+BALANCE SHEETS
+(In millions)
+
+| Metric | 2024 | 2023 |
+| :--- | :--- | :--- |
+| Total current assets | 44345 | 23073 |
+| Total current liabilities | 10631 | 6550 |
+| Total debt | 11056 | 12031 |
+| Total stockholders equity | 42978 | 22101 |
+
+SEGMENT REVENUE
+(In millions)
+
+| Segment | 2024 | 2023 |
+| :--- | :--- | :--- |
+| Data Center | 47525 | 15013 |
+| Gaming | 10447 | 9067 |
+| Professional Visualization | 1553 | 1544 |
+| Auto | 1091 | 903 |
+| Total revenue | 60922 | 26974 |

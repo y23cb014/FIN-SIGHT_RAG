@@ -1,0 +1,23 @@
+--- PAGE 1 ---
+FORM 10-K ANNUAL REPORT
+MICROSOFT CORPORATION
+Fiscal Year 2025 Summary
+
+| Metric | 2025 | 2024 |
+| :--- | :--- | :--- |
+| Revenue | 279500 | 245122 |
+| Gross profit | 196800 | 170724 |
+| Operating income | 127600 | 109433 |
+| Net income | 102400 | 88136 |
+| Total debt | 44200 | 49850 |
+| Total stockholders equity | 310000 | 268542 |
+
+SEGMENT REVENUE
+(In millions)
+
+| Segment | 2025 | 2024 |
+| :--- | :--- | :--- |
+| Productivity and Business Processes | 87000 | 77358 |
+| Intelligent Cloud | 126500 | 105362 |
+| More Personal Computing | 66000 | 62402 |
+| Total revenue | 279500 | 245122 |

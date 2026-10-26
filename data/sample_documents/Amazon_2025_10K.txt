@@ -1,0 +1,20 @@
+--- PAGE 1 ---
+AMAZON.COM, INC.
+FORM 10-K ANNUAL REPORT 2025
+
+| Metric | 2025 | 2024 |
+| :--- | :--- | :--- |
+| Total net sales | 715400 | 637960 |
+| Gross profit | 354200 | 308500 |
+| Operating income | 84500 | 68900 |
+| Net income | 73800 | 59250 |
+
+SEGMENT NET SALES
+(In millions)
+
+| Segment | 2025 | 2024 |
+| :--- | :--- | :--- |
+| North America | 431200 | 387400 |
+| International | 161200 | 145200 |
+| AWS | 123000 | 105360 |
+| Total net sales | 715400 | 637960 |

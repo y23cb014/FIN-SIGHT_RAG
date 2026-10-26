@@ -1,0 +1,55 @@
+--- PAGE 1 ---
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 10-K ANNUAL REPORT
+APPLE INC.
+For the fiscal year ended September 30, 2023
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+During fiscal year 2023, Apple continued to navigate a challenging macroeconomic environment.
+Total net sales were $383,285 million, compared to $394,328 million in fiscal 2022.
+Gross margin was $169,148 million.
+Operating income was $114,301 million.
+Net income reached $96,995 million.
+The Company returned over $77 billion to shareholders through dividends and share repurchases.
+
+--- PAGE 2 ---
+Item 8. Financial Statements and Supplementary Data
+Apple Inc.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In millions, except number of shares which are reflected in thousands and per share amounts)
+
+| Metric | 2023 | 2022 |
+| :--- | :--- | :--- |
+| Total net sales | 383285 | 394328 |
+| Cost of sales | 214137 | 223546 |
+| Gross profit | 169148 | 170782 |
+| Operating expenses: Research and development | 29915 | 26251 |
+| Operating expenses: Selling, general and administrative | 24932 | 25094 |
+| Operating income | 114301 | 119437 |
+| Net income | 96995 | 99803 |
+
+CONSOLIDATED BALANCE SHEETS
+(In millions)
+
+| Metric | 2023 | 2022 |
+| :--- | :--- | :--- |
+| Cash and cash equivalents | 29965 | 23646 |
+| Total current assets | 143566 | 135405 |
+| Total current liabilities | 145308 | 153982 |
+| Total debt | 111088 | 120069 |
+| Total stockholders equity | 62146 | 50672 |
+
+--- PAGE 3 ---
+Apple Inc.
+NET SALES BY PRODUCT CATEGORY
+(In millions)
+
+| Category | 2023 | 2022 |
+| :--- | :--- | :--- |
+| iPhone | 200583 | 205489 |
+| Services | 85200 | 78129 |
+| Mac | 29357 | 40177 |
+| iPad | 28300 | 29292 |
+| Wearables Home and Accessories | 39845 | 41241 |
+| Total net sales | 383285 | 394328 |

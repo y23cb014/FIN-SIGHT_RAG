@@ -1,0 +1,43 @@
+--- PAGE 1 ---
+NVIDIA CORPORATION
+FORM 10-K ANNUAL REPORT
+For the fiscal year ended January 29, 2023
+
+Item 7. Management's Discussion and Analysis
+Fiscal 2023 revenue was $26,974 million, flat with the prior year.
+Gross profit was $15,356 million.
+Operating income was $4,224 million.
+Net income was $4,368 million.
+Data Center revenue reached $15,013 million, up 41%.
+
+--- PAGE 2 ---
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In millions)
+
+| Metric | 2023 | 2022 |
+| :--- | :--- | :--- |
+| Total net sales | 26974 | 26914 |
+| Gross profit | 15356 | 17475 |
+| Operating income | 4224 | 10041 |
+| Net income | 4368 | 9752 |
+
+BALANCE SHEETS
+(In millions)
+
+| Metric | 2023 | 2022 |
+| :--- | :--- | :--- |
+| Total current assets | 23073 | 21200 |
+| Total current liabilities | 6550 | 4340 |
+| Total debt | 12031 | 11831 |
+| Total stockholders equity | 22101 | 26612 |
+
+SEGMENT REVENUE
+(In millions)
+
+| Segment | 2023 | 2022 |
+| :--- | :--- | :--- |
+| Data Center | 15013 | 10613 |
+| Gaming | 9067 | 12462 |
+| Professional Visualization | 1544 | 2111 |
+| Auto | 903 | 566 |
+| Total revenue | 26974 | 26914 |

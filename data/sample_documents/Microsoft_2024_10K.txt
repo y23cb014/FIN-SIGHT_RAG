@@ -1,0 +1,50 @@
+--- PAGE 1 ---
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 10-K ANNUAL REPORT
+MICROSOFT CORPORATION
+For the fiscal year ended June 30, 2024
+
+Item 7. Management's Discussion and Analysis
+For fiscal year 2024, Microsoft achieved revenue of $245,122 million, an increase of 16% YoY.
+Operating income increased 24% to $109,433 million.
+Net income expanded to $88,136 million, up 22%.
+Intelligent Cloud revenue grew 20% to $105,362 million, driven by Azure and other cloud services growth of 30%.
+
+--- PAGE 2 ---
+Item 8. Financial Statements
+Microsoft Corporation
+INCOME STATEMENTS
+(In millions)
+
+| Metric | 2024 | 2023 |
+| :--- | :--- | :--- |
+| Revenue | 245122 | 211915 |
+| Cost of revenue | 74398 | 65863 |
+| Gross profit | 170724 | 146052 |
+| Research and development | 29510 | 27195 |
+| Sales and marketing | 24345 | 22759 |
+| General and administrative | 7436 | 7575 |
+| Operating income | 109433 | 88523 |
+| Net income | 88136 | 72361 |
+
+BALANCE SHEETS
+(In millions)
+
+| Metric | 2024 | 2023 |
+| :--- | :--- | :--- |
+| Total current assets | 202300 | 184257 |
+| Total current liabilities | 125500 | 104149 |
+| Total debt | 49850 | 59965 |
+| Total stockholders equity | 268542 | 206223 |
+
+--- PAGE 3 ---
+SEGMENT REVENUE
+(In millions)
+
+| Segment | 2024 | 2023 |
+| :--- | :--- | :--- |
+| Productivity and Business Processes | 77358 | 69274 |
+| Intelligent Cloud | 105362 | 87907 |
+| More Personal Computing | 62402 | 54734 |
+| Total revenue | 245122 | 211915 |

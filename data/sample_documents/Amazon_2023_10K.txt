@@ -1,0 +1,44 @@
+--- PAGE 1 ---
+AMAZON.COM, INC.
+FORM 10-K ANNUAL REPORT
+For the fiscal year ended December 31, 2023
+
+Item 7. Management's Discussion and Analysis
+Net sales increased 12% to $574,785 million in 2023, compared with $513,983 million in 2022.
+Operating income was $36,852 million, compared with operating income of $12,248 million in 2022.
+Net income was $30,425 million, compared with a net loss of $2,722 million in 2022.
+AWS segment sales increased 13% to $90,757 million.
+
+--- PAGE 2 ---
+Item 8. Financial Statements
+Amazon.com, Inc.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In millions)
+
+| Metric | 2023 | 2022 |
+| :--- | :--- | :--- |
+| Total net sales | 574785 | 513983 |
+| Cost of sales | 304739 | 288831 |
+| Gross profit | 270046 | 225152 |
+| Operating income | 36852 | 12248 |
+| Net income | 30425 | -2722 |
+
+BALANCE SHEETS
+(In millions)
+
+| Metric | 2023 | 2022 |
+| :--- | :--- | :--- |
+| Total current assets | 164888 | 146791 |
+| Total current liabilities | 164960 | 155393 |
+| Total debt | 67150 | 72100 |
+| Total stockholders equity | 201875 | 146043 |
+
+SEGMENT NET SALES
+(In millions)
+
+| Segment | 2023 | 2022 |
+| :--- | :--- | :--- |
+| North America | 352828 | 315880 |
+| International | 131200 | 118000 |
+| AWS | 90757 | 80096 |
+| Total net sales | 574785 | 513983 |

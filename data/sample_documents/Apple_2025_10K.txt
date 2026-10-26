@@ -1,0 +1,48 @@
+--- PAGE 80 ---
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 10-K ANNUAL REPORT
+APPLE INC.
+For the fiscal year ended September 27, 2025
+
+Item 7. Management's Discussion and Analysis
+In fiscal 2025, Apple generated total net sales of $415,850 million, up 6.3% YoY.
+Gross profit reached $195,450 million.
+Operating income totaled $135,150 million.
+Net income expanded to $105,200 million.
+
+--- PAGE 81 ---
+Item 8. Financial Statements
+Apple Inc.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In millions)
+
+| Metric | 2025 | 2024 |
+| :--- | :--- | :--- |
+| Total net sales | 415850 | 391035 |
+| Gross profit | 195450 | 180683 |
+| Operating income | 135150 | 123216 |
+| Net income | 105200 | 93736 |
+
+CONSOLIDATED BALANCE SHEETS
+(In millions)
+
+| Metric | 2025 | 2024 |
+| :--- | :--- | :--- |
+| Cash and cash equivalents | 32500 | 29943 |
+| Total current assets | 161200 | 152987 |
+| Total current liabilities | 172400 | 176392 |
+| Total debt | 101200 | 106629 |
+| Total stockholders equity | 74500 | 66988 |
+
+NET SALES BY CATEGORY
+(In millions)
+
+| Category | 2025 | 2024 |
+| :--- | :--- | :--- |
+| iPhone | 214000 | 201183 |
+| Services | 108500 | 96169 |
+| Mac | 32100 | 29984 |
+| iPad | 28250 | 26694 |
+| Wearables Home and Accessories | 33000 | 37005 |
+| Total net sales | 415850 | 391035 |

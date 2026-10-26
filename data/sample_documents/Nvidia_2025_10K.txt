@@ -1,0 +1,43 @@
+--- PAGE 1 ---
+NVIDIA CORPORATION
+FORM 10-K ANNUAL REPORT
+For the fiscal year ended January 26, 2025
+
+Item 7. Management's Discussion and Analysis
+Fiscal 2025 revenue surged to $130,500 million, an unprecedented 114% growth YoY.
+Data Center revenue was $115,200 million, representing approximately 88.3% of total revenue.
+Gross profit climbed to $97,800 million.
+Operating income reached $81,500 million.
+Net income reached $72,900 million.
+
+--- PAGE 2 ---
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In millions)
+
+| Metric | 2025 | 2024 |
+| :--- | :--- | :--- |
+| Total net sales | 130500 | 60922 |
+| Gross profit | 97800 | 44301 |
+| Operating income | 81500 | 32972 |
+| Net income | 72900 | 29760 |
+
+BALANCE SHEETS
+(In millions)
+
+| Metric | 2025 | 2024 |
+| :--- | :--- | :--- |
+| Total current assets | 85200 | 44345 |
+| Total current liabilities | 18400 | 10631 |
+| Total debt | 10500 | 11056 |
+| Total stockholders equity | 95400 | 42978 |
+
+SEGMENT REVENUE
+(In millions)
+
+| Segment | 2025 | 2024 |
+| :--- | :--- | :--- |
+| Data Center | 115200 | 47525 |
+| Gaming | 11800 | 10447 |
+| Professional Visualization | 1900 | 1553 |
+| Auto | 1600 | 1091 |
+| Total revenue | 130500 | 60922 |

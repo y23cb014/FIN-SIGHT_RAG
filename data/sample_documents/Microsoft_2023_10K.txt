@@ -1,0 +1,50 @@
+--- PAGE 1 ---
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 10-K ANNUAL REPORT
+MICROSOFT CORPORATION
+For the fiscal year ended June 30, 2023
+
+Item 7. Management's Discussion and Analysis
+Microsoft reported total revenue of $211,915 million for fiscal year 2023, compared to $198,270 million in 2022.
+Gross profit was $146,052 million.
+Operating income was $88,523 million.
+Net income reached $72,361 million.
+
+--- PAGE 2 ---
+Item 8. Financial Statements
+Microsoft Corporation
+INCOME STATEMENTS
+(In millions)
+
+| Metric | 2023 | 2022 |
+| :--- | :--- | :--- |
+| Revenue | 211915 | 198270 |
+| Cost of revenue | 65863 | 62650 |
+| Gross profit | 146052 | 135620 |
+| Research and development | 27195 | 24512 |
+| Sales and marketing | 22759 | 21825 |
+| General and administrative | 7575 | 5900 |
+| Operating income | 88523 | 83383 |
+| Net income | 72361 | 72738 |
+
+BALANCE SHEETS
+(In millions)
+
+| Metric | 2023 | 2022 |
+| :--- | :--- | :--- |
+| Total current assets | 184257 | 169684 |
+| Total current liabilities | 104149 | 95082 |
+| Total debt | 59965 | 61270 |
+| Total stockholders equity | 206223 | 166542 |
+
+--- PAGE 3 ---
+SEGMENT REVENUE
+(In millions)
+
+| Segment | 2023 | 2022 |
+| :--- | :--- | :--- |
+| Productivity and Business Processes | 69274 | 63364 |
+| Intelligent Cloud | 87907 | 75251 |
+| More Personal Computing | 54734 | 59655 |
+| Total revenue | 211915 | 198270 |
